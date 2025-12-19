@@ -44,7 +44,7 @@ p {
 
 /* Skip link (accessibility requirement) */
 .skip-link {
-    position: static;
+    position: absolute;
     left: -999px;
     top: -999px;
 }
@@ -82,3 +82,4 @@ nav img {
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
